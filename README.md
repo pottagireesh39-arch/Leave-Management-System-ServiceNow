@@ -105,16 +105,28 @@ Leave Management System
 
 ---
 
-# 📸 Screenshots
+## 📸 Screenshots
 
-> Add the following screenshots here:
+### App Engine Studio
+![App Engine Studio](images/app-engine-studio.png)
 
-- Leave Request Form
-- Flow Designer
-- Dashboard
-- Reports
-- Platform Analytics
+### Leave Request Form
+![Leave Request Form](images/leave-form.png)
 
+### Leave Request List
+![Leave Request List](images/leave-list.png)
+
+### Flow Designer
+![Flow Designer](images/flow-designer.png)
+
+### Dashboard
+![Dashboard](images/dashboard.png)
+
+### System Architecture
+![System Architecture](images/system-architecture.png)
+
+### Workflow Diagram
+![Workflow Diagram](images/workflow.png)
 ---
 
 # 🚀 Future Enhancements
